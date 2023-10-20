@@ -15,7 +15,7 @@ async function main() {
     "./abis/Minter.json",
     JSON.stringify({
       address: Minter.address,
-      abi: Minter.abi.toString(),
+      abi: Minter.abi,
     })
   );
 }
