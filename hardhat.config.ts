@@ -12,7 +12,7 @@ const config: HardhatUserConfig = {
     },
   },
   etherscan: {
-    apiKey: "A34WB3PGCHA88I22RA5E59DXR6N3XP8VE1",
+    apiKey: "A34WB3PGCHA88I22RA5E59DXR6N3XP8VE1", // Snowtrace Fuji Testnet
   }
 };
 
